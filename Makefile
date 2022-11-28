@@ -6,7 +6,7 @@
 #    By: lolemmen <lolemmen@student.s19.be>         +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/11/28 14:09:13 by lolemmen          #+#    #+#              #
-#    Updated: 2022/11/28 14:22:06 by lolemmen         ###   ########.fr        #
+#    Updated: 2022/11/28 15:41:22 by lolemmen         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -32,6 +32,8 @@ OBJSDIR = Objs
 SRC = \
 	 Utils/ft_utils.c \
 	 Leaks/leaks.c \
+	 Free/ft_free.c \
+	 Malloc/ft_malloc.c \
 
 # **************************************************************************** #
 
